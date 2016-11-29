@@ -1,0 +1,147 @@
+.gallery-modal-ash .modal-dialog {
+    height: 90%;
+}
+
+.gallery-modal-ash .modal-dialog .modal-content {
+    height: 100%;
+}
+
+.modal-body-gallery {
+	height: 100%;
+}
+
+
+
+.productname{
+	margin-left: 15px;
+ 
+}
+
+.sidearea{
+	height: 100%;
+    padding-right: 0px;
+}
+
+.iconarea{
+    border-style: groove;
+    height: 96%;
+margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    overflow: auto;
+}
+
+.iconareamob{
+    border-top: 1px;
+    border-bottom: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    margin-top: 10px;
+    border-style: groove;
+    padding: 10px;
+    overflow: auto;
+    height: 35%;
+    text-align: center;
+}
+
+.icondiv{
+    padding-left: 0px;
+    padding-right: 0px;
+    
+}
+
+.icon{
+    max-width: 100%;
+    padding: 6px;
+    height: auto;
+    cursor:pointer;
+}
+.imagearea{
+    margin: auto;
+    height: 95%;
+}
+
+.imageareamob{
+    display: table;
+    margin: auto;
+    height: 60%;
+}
+
+.mainimagediv{
+    margin: auto;
+    height: 100%;
+    display: table;
+    width: 95%;
+    position: absolute;
+  vertical-align: middle;
+}
+
+.mainimagedivmob{
+    margin: auto;
+    height: 100%;
+    display: table;
+    
+  vertical-align: middle;
+}
+
+
+.mainimage{
+    position: absolute;
+    max-width: 90%;
+    max-height: 90%;
+    padding: 5px;
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    cursor:zoom-in;
+}
+
+
+.mainimagemob{
+    position: absolute;
+    max-width: 90%;
+    max-height: 90%;
+    padding: 5px;
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    cursor:zoom-in;
+}
+
+.close{
+    margin-right: 20px;
+}
+
+.imageareamob{
+    display: table;
+    margin: auto;
+}
+
+.zoomimagediv{
+    position: absolute;
+    height: 100%;
+    width: 95%;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    background-color: #ffffff;
+}
+
+.zoomimage{
+    height:100%;
+    background-repeat:no-repeat;
+	background-position: center; 
+    cursor: zoom-out;
+}
+
+.selectedicon{
+    max-width: 100%;
+    padding: 6px;
+    height: auto;
+    cursor:pointer;
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+}
